@@ -27,11 +27,11 @@ A collection of Python utilities that extend and build upon the standard library
    You can import directly from any submodule. For example:
 
    ```python
-   from py_garden.fs_utils.main import *
+   from fs_utils.main import *
    ```
 
    or import specific functions:
 
    ```python
-   from py_garden.fs_utils.main import find_new_files, copy_directory
+   from fs_utils.main import find_new_files, copy_directory
    ```
